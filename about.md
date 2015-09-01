@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a computer science undergraduate student at the University of Texas at Austin. I also work at National Instruments as a software engineering intern and play keyboards in a video game music cover band. Check out the links below!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[UT Computer Science Department](http://www.cs.utexas.edu/)
+[National Instruments](http://www.ni.com)
+[The Returners](http://www.the-returners.com)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[HawesDomingue@utexas.edu](mailto:HawesDomingue@utexas.edu)
