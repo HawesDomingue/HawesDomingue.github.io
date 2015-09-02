@@ -8,10 +8,8 @@ I'm a computer science undergraduate student at the University of Texas at Austi
 
 ### More Information
 
-[UT Computer Science Department](http://www.cs.utexas.edu/)
-
-[National Instruments](http://www.ni.com)
-
+[UT Computer Science Department](http://www.cs.utexas.edu/)  
+[National Instruments](http://www.ni.com)  
 [The Returners](http://www.the-returners.com)
 
 ### Contact me
