@@ -2,7 +2,7 @@
 title: 'CS373 Spring 2016: K.C. Hawes-Domingue'
 description: 'Adventures in a software engineering course'
 url: 'http://HawesDomingue.github.io/cs373' 
-baseurl: '/cs373'
+baseurl: '/cs373/'
 google_analytics: 'UA-72838919-1'
 
 author:
