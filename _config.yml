@@ -1,0 +1,27 @@
+# Site settings
+title: 'CS373 Spring 2016: K.C. Hawes-Domingue'
+description: 'Adventures in a software engineering course'
+url: 'http://HawesDomingue.github.io' 
+baseurl: '/'
+google_analytics: 'UA-72838919-1'
+
+author:
+  name: 'K.C. Hawes-Domingue'
+  email: HawesDomingue@utexas.edu
+  github_username:  HawesDomingue
+  linkedin_username:  hawesdomingue
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: pygments
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
